@@ -3,8 +3,8 @@ package joingroup_test
 import (
 	"testing"
 
-	"github.com/segmentio/kafka-go/protocol/joingroup"
-	"github.com/segmentio/kafka-go/protocol/prototest"
+	"github.com/stevemns/kafka-go/protocol/joingroup"
+	"github.com/stevemns/kafka-go/protocol/prototest"
 )
 
 func TestJoinGroupReq(t *testing.T) {

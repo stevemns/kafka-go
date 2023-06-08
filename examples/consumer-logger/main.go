@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	kafka "github.com/segmentio/kafka-go"
+	kafka "github.com/stevemns/kafka-go"
 )
 
 func getKafkaReader(kafkaURL, topic, groupID string) *kafka.Reader {

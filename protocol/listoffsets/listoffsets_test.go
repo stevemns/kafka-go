@@ -3,8 +3,8 @@ package listoffsets_test
 import (
 	"testing"
 
-	"github.com/segmentio/kafka-go/protocol/listoffsets"
-	"github.com/segmentio/kafka-go/protocol/prototest"
+	"github.com/stevemns/kafka-go/protocol/listoffsets"
+	"github.com/stevemns/kafka-go/protocol/prototest"
 )
 
 const (
