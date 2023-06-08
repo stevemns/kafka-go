@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/segmentio/kafka-go/protocol/describelogdirs"
+	"github.com/stevemns/kafka-go/protocol/describelogdirs"
 )
 
 // DescribeLogDirsRequest is a request to the DescribeLogDirs API.
