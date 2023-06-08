@@ -3,8 +3,8 @@ package offsetdelete_test
 import (
 	"testing"
 
-	"github.com/segmentio/kafka-go/protocol/offsetdelete"
-	"github.com/segmentio/kafka-go/protocol/prototest"
+	"github.com/stevemns/kafka-go/protocol/offsetdelete"
+	"github.com/stevemns/kafka-go/protocol/prototest"
 )
 
 func TestOffsetDeleteRequest(t *testing.T) {

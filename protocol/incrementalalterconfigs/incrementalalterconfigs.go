@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/segmentio/kafka-go/protocol"
+	"github.com/stevemns/kafka-go/protocol"
 )
 
 const (

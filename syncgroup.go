@@ -8,9 +8,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/segmentio/kafka-go/protocol"
-	"github.com/segmentio/kafka-go/protocol/consumer"
-	"github.com/segmentio/kafka-go/protocol/syncgroup"
+	"github.com/stevemns/kafka-go/protocol"
+	"github.com/stevemns/kafka-go/protocol/consumer"
+	"github.com/stevemns/kafka-go/protocol/syncgroup"
 )
 
 // SyncGroupRequest is the request structure for the SyncGroup function.

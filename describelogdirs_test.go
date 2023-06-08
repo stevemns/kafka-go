@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	ktesting "github.com/segmentio/kafka-go/testing"
+	ktesting "github.com/stevemns/kafka-go/testing"
 )
 
 func TestDescribeLogDirs(t *testing.T) {

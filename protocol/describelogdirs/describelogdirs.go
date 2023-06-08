@@ -3,7 +3,7 @@ package describelogdirs
 import (
 	"fmt"
 
-	"github.com/segmentio/kafka-go/protocol"
+	"github.com/stevemns/kafka-go/protocol"
 )
 
 func init() {

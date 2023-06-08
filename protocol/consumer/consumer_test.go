@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/segmentio/kafka-go/protocol"
-	"github.com/segmentio/kafka-go/protocol/consumer"
+	"github.com/stevemns/kafka-go/protocol"
+	"github.com/stevemns/kafka-go/protocol/consumer"
 )
 
 func TestSubscription(t *testing.T) {
